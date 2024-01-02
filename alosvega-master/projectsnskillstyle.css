@@ -25,9 +25,10 @@ padding:5px;
     display:table;
 }
 
-body{
+body, .future, ul{
     background-color: white;
     border: 6px solid whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 .linked, .homepage{
